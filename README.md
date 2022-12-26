@@ -1,6 +1,6 @@
 # Python for GIS
 ---
-This repository contains my work for the self-guided ['Automating GIS Processes']('https://autogis-site.readthedocs.io/en/latest/') online course hosted by the University of Helsinki and created by Henrikki Tenkanen, Vuokko Heikinheimo, Håvard Wallin Aagesen, and Christoph Fink.
+This repository contains my work for the self-guided ['Automating GIS Processes'](https://autogis-site.readthedocs.io/en/latest/) online course hosted by the University of Helsinki and created by Henrikki Tenkanen, Vuokko Heikinheimo, Håvard Wallin Aagesen, and Christoph Fink.
 
 # Contents
 
